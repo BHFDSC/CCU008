@@ -14,7 +14,7 @@ This work will be undertaken in close alignment with another approved CVD-COVID-
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU008_01: Impact of the COVID-19 pandemic on the routine measurement of cardiometabolic disease risk factors in primary care in England](https://github.com/BHFDSC/CCU008_01)
 
 ## Project approval
 
